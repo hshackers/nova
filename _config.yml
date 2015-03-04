@@ -1,34 +1,34 @@
 # Site settings
-title: HS Hackers NYC
-location: New York City
-description: "Welcome to the High School Hackers NYC meetup group!"
+title: HS Hackers NoVA
+location: Northern Virginia
+description: "Welcome to the High School Hackers NoVA meetup group!"
 baseurl: ""
-url: "http://nyc.hshackers.org"
+url: "http://nova.hshackers.org"
 
 # More settings
-accent: "#E74C3C"
-twitter: "hshackersnyc"
-github: "hshackers/nyc"
+accent: "#00C2E4"
+twitter: "hshackersnova"
+github: "hshackers/nova"
 contact: "hello at victorlourng dot com"
-organizers: "John Mormon and Jon Moss"
+organizers: "Daniel Christopher"
 
 # Get Meetup Notifications, visible or hidden
 notifications: "visible"
 
 # Get Meetup Notifications, IFTTT recipie URLs
-email: "https://ifttt.com/recipes/186850-hs-hackers-nyc-e-mail-notifications"
-gcal: "https://ifttt.com/recipes/186851-google-calendar-for-hs-hackers-nyc"
+email: ""
+gcal: ""
 sms: ""
 android: ""
 ifttt: "http://ifttt.com/"
 
 # Local Meetup Links
-meetup1: "The Young Hackers"
-meetup1-url: "http://younghackers.us/"
-meetup2: "NYC TechBreakfast"
-meetup2-url: "http://www.meetup.com/NYC-TechBreakfast/"
-meetup3: "NY Tech Meetup"
-meetup3-url: "http://www.meetup.com/ny-tech/"
+meetup1: "HS Hackers Philly"
+meetup1-url: "http://hshackers.org/"
+meetup2: ""
+meetup2-url: ""
+meetup3: ""
+meetup3-url: ""
 
 # Build settings
 markdown: kramdown
