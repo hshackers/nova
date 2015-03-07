@@ -15,7 +15,7 @@ navigation: "visible"
 
 The {{ site.title }} local meetup group in {{ site.location }} is run by {{ site.organizers }}.
 
-## Press Contact
+## Contact
 
 {{ site.contact }}
 
