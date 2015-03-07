@@ -10,7 +10,7 @@ accent: "#00C2E4"
 twitter: "novahshackers"
 github: "hshackers/nova"
 contact: "hello at victorlourng dot com"
-organizers: "Daniel Christopher url((https://github.com/danielchristopher1))"
+organizers: "Daniel Christopher url(https://github.com/danielchristopher1)"
 
 # Get Meetup Notifications, visible or hidden
 notifications: "visible"
