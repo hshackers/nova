@@ -12,3 +12,4 @@ link: "http://studentinnovationgala.splashthat.com/"
 background: "url(http://i.imgur.com/U9bGouP.jpg)"
 ---
 
+## Come to watch local DC student startups pitch, and then build your network by connecting with DC's entrepreneurial sector.
